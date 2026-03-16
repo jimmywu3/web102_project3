@@ -1,0 +1,24 @@
+{
+    "cats": [
+        {
+            "name": "Maine Coon",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyqtsvVCIuq-vQR9Qphfkof-Du3kEAvND0Xg&s"
+        },
+        {
+            "name": "Siamese", 
+            "image": "https://assets.elanco.com/8e0bf1c2-1ae4-001f-9257-f2be3c683fb1/fca42f04-2474-4302-a238-990c8aebfe8c/Siamese_cat_1110x740.jpg?w=3840&q=75&auto=format"
+        },
+        {
+            "name": "Bengal",
+            "image": "https://www.zooplus.co.uk/magazine/wp-content/uploads/2018/02/fotolia_82719975.webp"
+        },
+        {
+            "name": "Sphynx",
+            "image": "https://i.guim.co.uk/img/media/6bddcc4d11116c1d28a452023ad5523012b2f572/146_619_4372_2623/master/4372.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=40269ac60c3c5f0d6ee79bef4276746f"
+        },
+        {
+            "name": "Ragdoll",
+            "image": "https://headsupfortails.com/cdn/shop/articles/Ragdoll_Blog_images__Helping_a_Senior_Dog_With_Weak_Eyesight_Navigate_Their_Space.jpg?v=1759237614"
+        }
+    ]
+}
